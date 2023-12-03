@@ -41,3 +41,8 @@
 | | MetaCLIP-L14-2.5B| 224px | 79.2% |
 | | MetaCLIP-H14-2.5B| 224px | 80.5% |
 | | MetaCLIP-G14-2.5B| 224px | ? |
+|  SLIP [[code]](https://github.com/facebookresearch/SLIP) [[paper]](https://arxiv.org/abs/2112.12750) | ViT-Small| 224px | 39.5% |
+|  DeLIP [[code]](https://github.com/Sense-GVT/DeCLIP) [[paper]](https://arxiv.org/abs/2112.12750) | ViT-B/32| 224px | 66.2% |
+| |RN50| 224px | 62.5% |
+| TinyCLIP [[code]](https://github.com/microsoft/Cream/tree/main/TinyCLIP) [[paper]](https://arxiv.org/abs/2309.12314) | | | |
+| MobileCLIP [[paper]](https://arxiv.org/abs/2311.17049) | | | |
